@@ -1,0 +1,1 @@
+# twrp_device_WIKO_T50
